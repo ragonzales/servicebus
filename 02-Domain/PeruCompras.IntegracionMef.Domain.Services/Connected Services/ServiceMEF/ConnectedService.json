@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://wstest.mineco.gob.pe:443/wsmefperucomprasapp/webservice/mefperucomprasWs?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceMEF"
+    ],
+    "targetFramework": "net6.0",
+    "typeReuseMode": "None"
+  }
+}
